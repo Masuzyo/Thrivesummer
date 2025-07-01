@@ -1,0 +1,1001 @@
+StudentID,Age,Gender,Major,Year,GPA,Study_Hours_Per_Week,Employment_Status,Annual_Income,Credits_Enrolled,Has_Scholarship,Lives_On_Campus
+1200001,20,Female,Engineering,Junior,4.0,20,Unemployed,0.0,15,False,True
+1200002,19,Female,Psychology,Freshman,2.04,11,Part-time,2773.4,18,False,False
+1200003,17,Female,Biology,Freshman,2.69,12,Unemployed,0.0,15,True,True
+1200004,20,Male,Computer Science,Senior,4.0,17,Part-time,14560.8,15,False,True
+1200005,21,Female,Engineering,Sophomore,2.93,15,Unemployed,0.0,15,False,False
+1200006,20,Male,Computer Science,Senior,1.98,9,Unemployed,0.0,12,False,True
+1200007,21,Female,Chemistry,Junior,3.04,17,Part-time,15506.67,18,True,False
+1200008,18,Male,Psychology,Sophomore,3.44,16,Unemployed,0.0,18,False,True
+1200009,20,Female,Computer Science,Freshman,3.32,16,Part-time,11281.49,15,False,True
+1200010,17,Female,Biology,Freshman,3.46,22,Part-time,7681.62,15,False,False
+1200011,17,Male,Biology,Freshman,3.55,21,Part-time,10617.13,15,True,False
+1200012,17,Female,Engineering,Senior,3.33,12,Unemployed,0.0,18,False,True
+1200013,20,Female,Physics,Freshman,3.08,11,Part-time,10080.71,15,False,True
+1200014,17,Female,Biology,Sophomore,2.67,8,Unemployed,0.0,15,True,False
+1200015,20,Male,Engineering,Freshman,2.83,9,Unemployed,0.0,21,False,True
+1200016,21,Female,Computer Science,Senior,1.87,9,Unemployed,0.0,15,False,True
+1200017,19,Female,Engineering,Senior,3.95,17,Unemployed,0.0,15,False,True
+1200018,17,Male,Psychology,Senior,3.76,14,Unemployed,0.0,12,True,True
+1200019,19,Female,Biology,Junior,2.02,4,Part-time,13028.47,18,False,False
+1200020,21,Other,Mathematics,Freshman,3.2,9,Unemployed,0.0,15,True,True
+1200021,19,Male,Economics,Junior,2.28,6,Part-time,8613.22,21,True,True
+1200022,21,Female,Mathematics,Sophomore,2.51,13,Unemployed,0.0,15,False,True
+1200023,18,Male,Computer Science,Sophomore,3.96,19,Part-time,10466.07,15,False,True
+1200024,24,Male,Physics,Senior,3.19,12,Part-time,12648.32,18,False,False
+1200025,19,Female,Physics,Sophomore,2.74,11,Part-time,11040.56,21,False,False
+1200026,21,Female,Computer Science,Senior,3.79,21,Unemployed,0.0,15,False,False
+1200027,22,Male,Psychology,Junior,3.54,22,Part-time,14949.51,15,False,True
+1200028,18,Female,Engineering,Sophomore,3.4,19,Unemployed,0.0,15,False,False
+1200029,18,Female,Computer Science,Junior,3.5,16,Unemployed,0.0,15,False,True
+1200030,19,Male,Engineering,Junior,1.88,5,Unemployed,0.0,21,False,False
+1200031,18,Female,Psychology,Sophomore,2.84,8,Part-time,8817.97,18,True,True
+1200032,28,Female,Engineering,Freshman,3.16,22,Unemployed,0.0,15,True,False
+1200033,20,Male,Engineering,Senior,3.76,14,Unemployed,0.0,21,False,False
+1200034,19,Female,Mathematics,Junior,2.9,8,Part-time,14230.65,15,False,False
+1200035,22,Female,Engineering,Senior,3.59,13,Part-time,15059.74,21,True,True
+1200036,21,Male,Psychology,Freshman,3.02,18,Unemployed,0.0,18,False,False
+1200037,21,Female,Computer Science,Freshman,4.0,12,Unemployed,0.0,15,False,False
+1200038,17,Female,Computer Science,Sophomore,3.07,14,Unemployed,0.0,12,False,True
+1200039,22,Male,Computer Science,Freshman,3.74,16,Unemployed,0.0,12,False,True
+1200040,19,Male,Physics,Freshman,4.0,15,Full-time,17191.31,18,False,False
+1200041,17,Female,Engineering,Senior,3.21,13,Part-time,11468.14,15,True,False
+1200042,22,Female,Computer Science,Sophomore,3.94,15,Unemployed,0.0,15,False,True
+1200043,20,Female,Computer Science,Freshman,3.76,20,Part-time,8486.69,15,False,False
+1200044,22,Female,Biology,Freshman,3.65,19,Unemployed,0.0,15,True,True
+1200045,21,Female,Biology,Junior,2.55,19,Part-time,13534.92,15,False,True
+1200046,19,Female,Biology,Senior,4.0,23,Unemployed,0.0,18,False,False
+1200047,19,Female,Psychology,Sophomore,2.53,10,Part-time,10292.54,18,True,True
+1200048,21,Female,Computer Science,Junior,3.2,19,Unemployed,0.0,18,False,False
+1200049,17,Female,Computer Science,Junior,2.5,5,Full-time,31443.35,15,True,True
+1200050,20,Female,Engineering,Junior,3.74,18,Unemployed,0.0,18,False,False
+1200051,22,Male,Engineering,Senior,3.08,11,Unemployed,0.0,18,False,False
+1200052,17,Female,Chemistry,Senior,2.77,16,Unemployed,0.0,12,True,True
+1200053,18,Male,Economics,Freshman,3.66,14,Part-time,11252.49,18,False,True
+1200054,23,Male,Biology,Junior,2.56,9,Part-time,14836.84,18,True,True
+1200055,21,Male,Mathematics,Freshman,3.21,20,Unemployed,0.0,12,False,True
+1200056,25,Male,Biology,Senior,2.9,15,Part-time,12526.12,15,True,True
+1200057,21,Female,Engineering,Senior,3.03,6,Full-time,30087.67,15,True,False
+1200058,17,Female,Psychology,Freshman,3.1,6,Unemployed,0.0,15,False,True
+1200059,19,Female,Chemistry,Freshman,2.63,10,Unemployed,0.0,18,False,False
+1200060,18,Female,Engineering,Junior,3.11,15,Unemployed,0.0,15,False,False
+1200061,21,Female,Biology,Freshman,3.06,13,Unemployed,0.0,15,True,True
+1200062,19,Female,Economics,Freshman,3.3,14,Unemployed,0.0,18,False,True
+1200063,18,Male,Psychology,Sophomore,2.19,7,Part-time,6860.54,15,False,False
+1200064,17,Female,Physics,Freshman,4.0,22,Unemployed,0.0,18,False,True
+1200065,17,Female,Psychology,Junior,3.94,15,Unemployed,0.0,21,True,True
+1200066,21,Male,Engineering,Junior,2.35,14,Unemployed,0.0,15,False,False
+1200067,20,Female,Engineering,Junior,3.22,17,Part-time,7248.05,18,False,True
+1200068,19,Female,Computer Science,Sophomore,2.61,3,Part-time,6295.45,15,True,True
+1200069,22,Male,Mathematics,Sophomore,3.78,12,Part-time,8393.43,21,True,True
+1200070,20,Female,Engineering,Sophomore,3.31,9,Part-time,7274.78,15,False,True
+1200071,18,Female,Chemistry,Sophomore,2.63,13,Part-time,10071.01,18,True,True
+1200072,17,Other,Economics,Freshman,3.64,18,Unemployed,0.0,12,False,True
+1200073,20,Male,Engineering,Junior,2.89,17,Part-time,12984.41,18,False,True
+1200074,22,Female,Computer Science,Senior,4.0,15,Part-time,12218.94,18,True,False
+1200075,18,Male,Computer Science,Freshman,2.76,16,Unemployed,0.0,15,False,True
+1200076,19,Female,Computer Science,Freshman,1.8,2,Full-time,14717.64,18,False,True
+1200077,19,Female,Psychology,Senior,2.71,9,Part-time,12604.91,12,False,True
+1200078,18,Male,Computer Science,Freshman,2.36,15,Unemployed,0.0,21,False,True
+1200079,24,Male,Computer Science,Sophomore,3.85,17,Unemployed,0.0,21,False,True
+1200080,17,Female,Economics,Senior,3.48,16,Part-time,13071.58,18,False,True
+1200081,18,Female,Computer Science,Sophomore,3.63,11,Unemployed,0.0,15,False,True
+1200082,18,Male,Biology,Senior,3.35,11,Unemployed,0.0,12,True,True
+1200083,17,Female,Computer Science,Junior,3.08,13,Part-time,12470.54,15,True,False
+1200084,23,Female,Biology,Senior,3.87,24,Part-time,12140.99,15,False,False
+1200085,20,Male,Mathematics,Freshman,2.72,16,Unemployed,0.0,15,False,True
+1200086,19,Female,Computer Science,Freshman,2.39,5,Unemployed,0.0,12,True,True
+1200087,17,Female,Psychology,Freshman,3.85,13,Unemployed,0.0,15,True,True
+1200088,20,Male,Physics,Freshman,4.0,13,Unemployed,0.0,21,False,False
+1200089,17,Female,Physics,Freshman,3.42,14,Unemployed,0.0,18,False,True
+1200090,20,Female,Computer Science,Senior,4.0,20,Part-time,15233.3,21,False,True
+1200091,20,Female,Engineering,Junior,2.8,13,Part-time,10304.47,15,False,False
+1200092,20,Female,Physics,Freshman,3.1,15,Unemployed,0.0,18,True,True
+1200093,22,Male,Biology,Junior,2.26,8,Part-time,12608.91,21,False,True
+1200094,20,Female,Physics,Freshman,3.29,25,Part-time,5818.36,15,True,True
+1200095,22,Female,Computer Science,Junior,3.15,19,Part-time,11042.11,18,False,True
+1200096,22,Female,Engineering,Junior,3.88,16,Part-time,11877.77,12,True,False
+1200097,17,Male,Computer Science,Freshman,3.24,19,Unemployed,0.0,15,False,True
+1200098,19,Female,Physics,Senior,2.84,11,Part-time,11954.56,12,True,True
+1200099,18,Female,Biology,Freshman,2.61,20,Unemployed,0.0,18,True,True
+1200100,21,Female,Computer Science,Sophomore,2.73,12,Part-time,4145.95,15,False,True
+1200101,17,Male,Computer Science,Freshman,2.86,14,Full-time,32044.08,18,True,True
+1200102,20,Male,Biology,Freshman,4.0,19,Unemployed,0.0,15,False,False
+1200103,17,Male,Psychology,Sophomore,2.28,7,Part-time,9941.43,18,True,True
+1200104,22,Female,Biology,Senior,4.0,18,Part-time,15208.81,15,True,False
+1200105,18,Female,Computer Science,Freshman,2.97,22,Part-time,7636.38,18,False,True
+1200106,23,Female,Physics,Freshman,3.28,19,Unemployed,0.0,12,True,False
+1200107,17,Male,Chemistry,Sophomore,1.28,2,Part-time,9358.05,15,False,False
+1200108,21,Male,Psychology,Freshman,2.53,13,Part-time,8070.13,18,True,False
+1200109,19,Male,Psychology,Sophomore,2.07,7,Unemployed,0.0,21,True,True
+1200110,17,Male,Psychology,Freshman,3.12,11,Unemployed,0.0,15,False,True
+1200111,18,Female,Physics,Junior,3.75,8,Part-time,12728.64,15,False,False
+1200112,24,Female,Physics,Sophomore,1.82,11,Part-time,10522.68,18,False,False
+1200113,17,Male,Biology,Junior,2.98,8,Unemployed,0.0,12,True,True
+1200114,17,Female,Computer Science,Junior,3.11,14,Unemployed,0.0,15,True,True
+1200115,20,Male,Computer Science,Senior,4.0,15,Part-time,12513.23,15,False,True
+1200116,20,Female,Chemistry,Sophomore,1.92,5,Unemployed,0.0,18,False,False
+1200117,26,Male,Biology,Senior,3.21,16,Part-time,11305.8,15,True,True
+1200118,19,Female,Computer Science,Freshman,3.27,17,Unemployed,0.0,18,False,True
+1200119,20,Female,Biology,Junior,3.19,12,Part-time,13229.56,12,True,False
+1200120,24,Male,Engineering,Freshman,2.79,11,Unemployed,0.0,18,False,False
+1200121,18,Female,Mathematics,Junior,3.1,14,Unemployed,0.0,18,False,False
+1200122,20,Female,Psychology,Sophomore,3.1,14,Unemployed,0.0,18,False,False
+1200123,17,Male,Physics,Freshman,2.52,11,Unemployed,0.0,18,False,True
+1200124,17,Female,Computer Science,Freshman,3.8,23,Part-time,8003.37,18,False,True
+1200125,20,Male,Computer Science,Senior,3.99,19,Part-time,9060.26,15,False,True
+1200126,24,Male,Economics,Senior,3.39,14,Part-time,11424.01,12,True,False
+1200127,22,Male,Engineering,Senior,2.86,13,Part-time,13499.77,18,True,True
+1200128,19,Male,Chemistry,Sophomore,2.59,6,Unemployed,0.0,15,True,False
+1200129,17,Female,Computer Science,Sophomore,2.88,14,Unemployed,0.0,18,True,False
+1200130,18,Female,Psychology,Freshman,2.91,8,Unemployed,0.0,18,True,False
+1200131,23,Female,Mathematics,Freshman,3.65,16,Part-time,7852.71,15,False,True
+1200132,17,Female,Engineering,Sophomore,4.0,15,Unemployed,0.0,18,False,False
+1200133,20,Male,Engineering,Sophomore,3.51,16,Unemployed,0.0,18,False,False
+1200134,22,Male,Mathematics,Senior,2.19,8,Part-time,10186.41,21,True,True
+1200135,23,Female,Psychology,Junior,3.04,9,Unemployed,0.0,15,True,True
+1200136,18,Male,Chemistry,Sophomore,3.1,17,Unemployed,0.0,18,False,False
+1200137,21,Female,Engineering,Freshman,3.47,16,Unemployed,0.0,15,False,True
+1200138,22,Other,Biology,Freshman,2.95,21,Unemployed,0.0,15,False,False
+1200139,19,Female,Engineering,Junior,3.98,24,Part-time,15635.84,15,False,True
+1200140,20,Male,Chemistry,Freshman,3.46,16,Unemployed,0.0,18,False,True
+1200141,22,Male,Computer Science,Sophomore,3.35,18,Unemployed,0.0,18,False,False
+1200142,17,Male,Chemistry,Sophomore,3.79,16,Unemployed,0.0,15,False,True
+1200143,19,Male,Computer Science,Sophomore,3.27,11,Part-time,4876.65,15,False,True
+1200144,17,Other,Physics,Sophomore,3.41,13,Unemployed,0.0,15,False,True
+1200145,25,Other,Computer Science,Junior,3.23,24,Part-time,10046.52,18,True,False
+1200146,22,Male,Economics,Senior,2.69,7,Unemployed,0.0,15,False,True
+1200147,17,Male,Engineering,Freshman,3.95,17,Unemployed,0.0,15,True,True
+1200148,18,Male,Chemistry,Freshman,3.08,15,Unemployed,0.0,15,False,False
+1200149,20,Female,Engineering,Senior,2.11,14,Unemployed,0.0,15,False,False
+1200150,18,Female,Chemistry,Junior,2.79,13,Part-time,14715.92,21,False,True
+1200151,17,Female,Biology,Freshman,4.0,26,Unemployed,0.0,15,False,True
+1200152,18,Male,Biology,Sophomore,3.48,12,Part-time,9548.57,12,False,False
+1200153,19,Female,Computer Science,Freshman,3.67,13,Unemployed,0.0,12,False,True
+1200154,19,Other,Computer Science,Junior,2.43,8,Full-time,46129.27,12,False,False
+1200155,19,Male,Computer Science,Freshman,2.41,10,Unemployed,0.0,15,False,False
+1200156,21,Male,Psychology,Freshman,2.57,15,Part-time,10184.8,18,True,True
+1200157,21,Male,Computer Science,Senior,2.46,17,Part-time,12859.35,18,False,True
+1200158,20,Female,Engineering,Senior,2.51,3,Part-time,17178.86,18,False,True
+1200159,22,Male,Computer Science,Junior,3.53,18,Full-time,33847.54,18,False,False
+1200160,17,Male,Computer Science,Sophomore,2.0,6,Part-time,2586.9,15,False,True
+1200161,17,Male,Engineering,Junior,3.03,15,Part-time,11939.55,12,False,False
+1200162,22,Female,Economics,Senior,3.21,12,Unemployed,0.0,18,False,True
+1200163,20,Male,Mathematics,Sophomore,4.0,20,Part-time,8063.35,18,True,False
+1200164,18,Male,Biology,Freshman,4.0,24,Unemployed,0.0,15,True,False
+1200165,23,Female,Psychology,Junior,2.39,14,Part-time,12104.24,18,False,True
+1200166,17,Female,Computer Science,Freshman,2.69,10,Part-time,7985.48,18,False,False
+1200167,17,Male,Chemistry,Junior,3.52,17,Unemployed,0.0,18,True,False
+1200168,18,Female,Computer Science,Senior,3.6,17,Full-time,42393.2,21,False,False
+1200169,19,Female,Physics,Freshman,3.14,13,Unemployed,0.0,18,True,True
+1200170,21,Female,Computer Science,Sophomore,2.49,12,Part-time,10797.19,15,True,True
+1200171,17,Male,Engineering,Sophomore,2.96,18,Unemployed,0.0,15,False,False
+1200172,17,Female,Mathematics,Senior,2.67,10,Unemployed,0.0,12,False,True
+1200173,17,Female,Psychology,Junior,2.76,14,Unemployed,0.0,15,True,True
+1200174,17,Male,Biology,Sophomore,3.22,16,Unemployed,0.0,15,False,False
+1200175,19,Female,Computer Science,Sophomore,3.65,16,Part-time,11214.16,15,True,True
+1200176,19,Male,Computer Science,Senior,2.66,8,Part-time,12034.29,15,True,True
+1200177,24,Male,Computer Science,Senior,3.06,11,Unemployed,0.0,18,True,False
+1200178,19,Male,Chemistry,Senior,3.86,23,Full-time,34337.5,12,False,False
+1200179,18,Male,Engineering,Freshman,1.34,11,Full-time,30593.23,18,False,True
+1200180,18,Female,Computer Science,Sophomore,3.4,14,Part-time,8938.72,21,True,False
+1200181,20,Female,Physics,Sophomore,1.41,7,Part-time,9323.58,15,True,True
+1200182,24,Female,Mathematics,Junior,2.34,8,Unemployed,0.0,18,True,True
+1200183,23,Male,Chemistry,Freshman,2.89,8,Part-time,5863.01,15,True,True
+1200184,17,Female,Psychology,Freshman,2.03,11,Unemployed,0.0,15,True,True
+1200185,17,Other,Chemistry,Freshman,4.0,21,Unemployed,0.0,21,False,True
+1200186,22,Female,Mathematics,Senior,2.37,7,Unemployed,0.0,15,False,True
+1200187,18,Male,Mathematics,Sophomore,3.61,17,Unemployed,0.0,15,False,True
+1200188,18,Male,Biology,Junior,3.12,7,Part-time,11130.48,18,False,True
+1200189,21,Male,Psychology,Junior,2.08,11,Part-time,9823.85,18,False,False
+1200190,19,Female,Computer Science,Senior,3.18,17,Full-time,36335.85,15,False,True
+1200191,19,Male,Computer Science,Senior,2.25,4,Part-time,10525.7,18,True,False
+1200192,22,Male,Engineering,Junior,2.22,2,Part-time,10121.23,15,False,True
+1200193,23,Female,Engineering,Sophomore,3.04,11,Unemployed,0.0,15,False,True
+1200194,19,Female,Economics,Senior,2.34,10,Unemployed,0.0,18,False,True
+1200195,19,Female,Engineering,Senior,3.9,18,Full-time,26139.51,12,False,True
+1200196,20,Male,Psychology,Freshman,2.44,18,Part-time,9419.51,18,True,True
+1200197,20,Female,Biology,Sophomore,2.81,15,Unemployed,0.0,18,False,True
+1200198,20,Male,Psychology,Junior,2.7,8,Unemployed,0.0,12,False,True
+1200199,18,Male,Biology,Freshman,3.28,16,Unemployed,0.0,18,False,True
+1200200,18,Female,Computer Science,Junior,2.48,15,Part-time,15758.85,12,False,True
+1200201,24,Male,Computer Science,Junior,3.39,15,Part-time,12559.16,18,False,False
+1200202,17,Male,Mathematics,Freshman,3.83,17,Unemployed,0.0,21,False,False
+1200203,24,Female,Engineering,Freshman,2.47,17,Unemployed,0.0,18,False,False
+1200204,20,Female,Mathematics,Senior,2.79,6,Part-time,10979.74,15,False,False
+1200205,17,Female,Biology,Freshman,2.91,13,Full-time,23920.29,12,False,False
+1200206,22,Male,Mathematics,Senior,3.53,20,Unemployed,0.0,15,False,False
+1200207,21,Male,Psychology,Senior,2.44,13,Part-time,11438.02,12,False,True
+1200208,18,Female,Physics,Junior,3.28,23,Unemployed,0.0,21,False,True
+1200209,20,Female,Biology,Sophomore,1.6,8,Unemployed,0.0,18,True,True
+1200210,20,Female,Engineering,Freshman,2.65,10,Unemployed,0.0,18,False,False
+1200211,18,Female,Chemistry,Senior,2.69,13,Unemployed,0.0,15,True,False
+1200212,20,Female,Computer Science,Freshman,2.83,13,Unemployed,0.0,18,True,True
+1200213,17,Female,Psychology,Senior,2.76,11,Part-time,14913.56,18,False,False
+1200214,17,Female,Engineering,Junior,4.0,17,Part-time,12847.4,15,False,False
+1200215,17,Female,Chemistry,Freshman,1.9,11,Unemployed,0.0,15,False,False
+1200216,20,Male,Psychology,Freshman,3.23,16,Full-time,32688.9,15,False,False
+1200217,21,Male,Computer Science,Freshman,2.92,10,Unemployed,0.0,18,False,True
+1200218,17,Male,Engineering,Freshman,2.22,20,Unemployed,0.0,21,False,False
+1200219,20,Female,Psychology,Senior,2.33,11,Part-time,14574.14,15,True,False
+1200220,23,Male,Computer Science,Junior,3.21,5,Unemployed,0.0,18,False,False
+1200221,18,Male,Mathematics,Sophomore,2.08,13,Unemployed,0.0,15,False,True
+1200222,21,Female,Engineering,Senior,3.17,13,Unemployed,0.0,18,False,False
+1200223,17,Female,Psychology,Freshman,3.13,13,Unemployed,0.0,15,False,True
+1200224,17,Female,Engineering,Senior,2.54,11,Full-time,34119.85,15,False,True
+1200225,22,Male,Biology,Sophomore,4.0,25,Unemployed,0.0,15,True,True
+1200226,21,Male,Mathematics,Junior,2.87,16,Unemployed,0.0,21,False,False
+1200227,19,Male,Biology,Freshman,3.06,20,Unemployed,0.0,21,False,True
+1200228,19,Female,Computer Science,Sophomore,3.26,15,Unemployed,0.0,18,True,False
+1200229,17,Female,Computer Science,Sophomore,3.56,14,Unemployed,0.0,12,True,False
+1200230,17,Female,Mathematics,Senior,2.92,10,Unemployed,0.0,15,True,True
+1200231,22,Female,Mathematics,Sophomore,1.99,14,Unemployed,0.0,18,False,True
+1200232,21,Female,Engineering,Senior,3.76,17,Part-time,10465.92,18,False,True
+1200233,23,Male,Chemistry,Freshman,2.36,15,Part-time,5483.94,18,False,True
+1200234,17,Female,Mathematics,Senior,2.07,10,Part-time,10900.8,15,False,False
+1200235,17,Male,Psychology,Sophomore,3.26,17,Unemployed,0.0,21,False,False
+1200236,17,Female,Mathematics,Sophomore,2.99,14,Unemployed,0.0,18,False,True
+1200237,20,Male,Psychology,Freshman,3.34,19,Unemployed,0.0,18,True,False
+1200238,21,Male,Computer Science,Senior,1.82,7,Part-time,12217.33,21,True,True
+1200239,22,Male,Engineering,Junior,3.48,16,Part-time,12682.66,18,True,False
+1200240,21,Female,Engineering,Sophomore,3.44,16,Unemployed,0.0,18,True,True
+1200241,17,Female,Computer Science,Senior,3.38,17,Unemployed,0.0,15,False,True
+1200242,17,Male,Chemistry,Sophomore,1.86,8,Part-time,7278.73,15,False,True
+1200243,17,Female,Psychology,Freshman,2.44,5,Unemployed,0.0,18,False,True
+1200244,17,Male,Economics,Sophomore,3.01,16,Unemployed,0.0,18,False,True
+1200245,17,Male,Computer Science,Senior,3.13,17,Full-time,38758.88,15,True,False
+1200246,19,Male,Mathematics,Junior,3.24,15,Unemployed,0.0,12,True,True
+1200247,26,Male,Computer Science,Freshman,4.0,14,Unemployed,0.0,18,False,False
+1200248,21,Male,Mathematics,Senior,2.16,17,Part-time,15366.99,18,False,True
+1200249,24,Male,Psychology,Junior,2.34,10,Unemployed,0.0,18,False,False
+1200250,17,Male,Biology,Freshman,2.31,8,Part-time,8692.43,18,False,False
+1200251,22,Male,Psychology,Senior,2.86,8,Part-time,13472.74,21,False,True
+1200252,21,Female,Psychology,Sophomore,3.6,14,Unemployed,0.0,12,False,True
+1200253,20,Female,Computer Science,Senior,3.08,14,Unemployed,0.0,12,False,True
+1200254,21,Female,Chemistry,Freshman,2.94,22,Unemployed,0.0,18,False,True
+1200255,22,Female,Chemistry,Freshman,2.49,15,Unemployed,0.0,15,True,True
+1200256,23,Female,Computer Science,Senior,3.13,21,Full-time,37851.28,15,False,True
+1200257,17,Female,Chemistry,Sophomore,1.69,14,Part-time,8495.19,18,False,False
+1200258,21,Male,Engineering,Senior,3.37,9,Unemployed,0.0,21,False,False
+1200259,19,Male,Psychology,Junior,2.97,13,Part-time,11805.42,18,False,False
+1200260,18,Male,Psychology,Freshman,3.39,22,Unemployed,0.0,15,False,False
+1200261,19,Female,Biology,Junior,2.91,18,Unemployed,0.0,15,True,False
+1200262,20,Male,Chemistry,Junior,2.14,15,Part-time,12647.45,12,True,False
+1200263,22,Male,Biology,Sophomore,1.92,7,Unemployed,0.0,21,False,True
+1200264,23,Female,Engineering,Sophomore,2.97,13,Part-time,13001.21,18,True,True
+1200265,20,Male,Chemistry,Senior,3.0,9,Full-time,36098.34,21,False,True
+1200266,22,Male,Computer Science,Freshman,3.69,21,Unemployed,0.0,18,True,True
+1200267,18,Male,Biology,Junior,3.31,16,Unemployed,0.0,18,False,True
+1200268,17,Female,Biology,Freshman,2.77,14,Part-time,8209.53,21,False,True
+1200269,21,Male,Computer Science,Freshman,2.72,13,Unemployed,0.0,15,False,False
+1200270,22,Female,Chemistry,Senior,3.03,12,Unemployed,0.0,18,False,False
+1200271,17,Male,Physics,Freshman,2.26,6,Unemployed,0.0,18,False,True
+1200272,21,Male,Computer Science,Junior,2.8,17,Full-time,36301.7,18,False,True
+1200273,20,Female,Chemistry,Sophomore,2.28,13,Unemployed,0.0,15,False,True
+1200274,24,Male,Mathematics,Freshman,2.87,11,Unemployed,0.0,18,False,True
+1200275,22,Female,Mathematics,Sophomore,3.64,16,Unemployed,0.0,21,False,False
+1200276,19,Male,Engineering,Sophomore,3.42,10,Unemployed,0.0,21,True,False
+1200277,19,Female,Mathematics,Senior,2.33,16,Unemployed,0.0,15,True,True
+1200278,22,Male,Computer Science,Senior,3.22,18,Unemployed,0.0,15,False,False
+1200279,20,Female,Engineering,Freshman,2.85,15,Unemployed,0.0,18,True,True
+1200280,24,Female,Chemistry,Sophomore,3.6,23,Unemployed,0.0,18,False,True
+1200281,21,Female,Computer Science,Senior,3.05,15,Part-time,10259.4,15,False,False
+1200282,17,Male,Mathematics,Freshman,3.01,17,Part-time,10557.94,15,True,False
+1200283,20,Female,Chemistry,Senior,3.55,15,Part-time,10846.27,15,False,False
+1200284,17,Male,Physics,Freshman,2.36,21,Part-time,9018.47,18,False,True
+1200285,21,Male,Economics,Senior,2.97,14,Full-time,34208.54,18,False,True
+1200286,19,Male,Psychology,Sophomore,2.88,10,Part-time,5654.65,18,False,False
+1200287,17,Female,Engineering,Junior,3.71,24,Part-time,12355.98,18,False,True
+1200288,18,Male,Chemistry,Freshman,3.44,23,Unemployed,0.0,21,True,True
+1200289,20,Female,Biology,Freshman,3.22,14,Unemployed,0.0,15,False,True
+1200290,22,Female,Physics,Sophomore,3.85,24,Unemployed,0.0,18,False,True
+1200291,22,Female,Psychology,Freshman,3.34,22,Unemployed,0.0,12,True,False
+1200292,21,Male,Engineering,Sophomore,2.5,10,Unemployed,0.0,21,False,True
+1200293,19,Female,Mathematics,Freshman,3.3,17,Part-time,12152.65,15,False,True
+1200294,17,Female,Computer Science,Junior,3.57,8,Unemployed,0.0,15,False,True
+1200295,19,Female,Mathematics,Junior,3.71,21,Full-time,33144.4,21,False,False
+1200296,21,Male,Engineering,Freshman,2.48,16,Part-time,5173.81,12,False,False
+1200297,21,Male,Engineering,Senior,3.7,16,Part-time,13447.98,18,False,False
+1200298,23,Other,Biology,Senior,4.0,17,Unemployed,0.0,15,True,True
+1200299,17,Female,Biology,Junior,2.77,19,Part-time,11562.22,15,False,True
+1200300,17,Female,Engineering,Senior,2.7,8,Part-time,12813.68,15,False,False
+1200301,17,Female,Physics,Sophomore,3.95,22,Part-time,7367.81,18,False,True
+1200302,22,Female,Psychology,Sophomore,3.45,21,Unemployed,0.0,18,False,True
+1200303,17,Other,Mathematics,Junior,4.0,19,Unemployed,0.0,21,True,True
+1200304,20,Male,Chemistry,Junior,3.57,17,Unemployed,0.0,15,False,True
+1200305,21,Female,Biology,Freshman,2.5,12,Unemployed,0.0,15,True,True
+1200306,17,Male,Biology,Sophomore,2.76,7,Part-time,7526.31,12,True,True
+1200307,18,Male,Mathematics,Senior,2.3,7,Full-time,39484.93,18,False,False
+1200308,20,Female,Chemistry,Sophomore,3.46,28,Part-time,6562.9,15,False,True
+1200309,19,Male,Biology,Sophomore,3.12,14,Unemployed,0.0,18,False,False
+1200310,19,Male,Computer Science,Freshman,3.15,18,Unemployed,0.0,18,True,False
+1200311,24,Male,Computer Science,Junior,3.65,10,Full-time,44748.91,18,False,True
+1200312,22,Male,Psychology,Junior,3.6,19,Part-time,12581.05,21,True,False
+1200313,22,Female,Engineering,Senior,3.72,13,Unemployed,0.0,15,False,False
+1200314,19,Female,Psychology,Sophomore,3.36,18,Unemployed,0.0,12,True,True
+1200315,19,Other,Engineering,Senior,1.48,7,Unemployed,0.0,18,False,True
+1200316,18,Female,Computer Science,Senior,3.06,13,Part-time,9689.39,15,False,True
+1200317,23,Male,Computer Science,Sophomore,3.06,11,Full-time,29692.46,18,True,True
+1200318,22,Female,Biology,Sophomore,2.38,7,Unemployed,0.0,15,True,True
+1200319,19,Male,Chemistry,Senior,3.53,18,Part-time,9997.35,18,False,False
+1200320,21,Female,Psychology,Sophomore,2.29,15,Part-time,7311.86,12,False,True
+1200321,18,Male,Computer Science,Senior,3.41,16,Unemployed,0.0,18,False,True
+1200322,20,Male,Chemistry,Senior,3.81,18,Part-time,14272.15,18,True,True
+1200323,22,Female,Engineering,Junior,2.32,13,Unemployed,0.0,15,False,False
+1200324,18,Female,Engineering,Senior,1.96,7,Full-time,40363.51,18,False,True
+1200325,17,Female,Computer Science,Senior,3.65,17,Unemployed,0.0,18,True,True
+1200326,19,Male,Psychology,Senior,2.16,9,Unemployed,0.0,18,False,False
+1200327,18,Male,Biology,Freshman,3.2,17,Unemployed,0.0,18,True,False
+1200328,22,Male,Engineering,Freshman,2.57,11,Unemployed,0.0,18,True,True
+1200329,21,Female,Biology,Freshman,2.77,14,Unemployed,0.0,18,False,True
+1200330,22,Male,Computer Science,Freshman,3.08,9,Unemployed,0.0,18,True,True
+1200331,17,Female,Physics,Freshman,2.94,20,Unemployed,0.0,12,True,True
+1200332,20,Male,Computer Science,Freshman,3.34,19,Part-time,7157.87,15,False,False
+1200333,21,Male,Engineering,Junior,3.03,12,Part-time,10684.22,12,False,False
+1200334,17,Female,Computer Science,Senior,1.93,6,Part-time,11669.9,18,False,False
+1200335,22,Female,Psychology,Junior,4.0,18,Unemployed,0.0,18,False,False
+1200336,20,Female,Physics,Senior,2.78,14,Part-time,12157.54,15,False,True
+1200337,17,Male,Psychology,Sophomore,2.71,10,Unemployed,0.0,12,False,False
+1200338,19,Male,Biology,Sophomore,2.63,16,Unemployed,0.0,15,True,True
+1200339,23,Female,Computer Science,Senior,3.9,16,Part-time,7598.77,15,False,False
+1200340,21,Female,Mathematics,Freshman,3.97,21,Unemployed,0.0,15,True,False
+1200341,20,Male,Chemistry,Junior,3.51,20,Unemployed,0.0,18,False,True
+1200342,22,Female,Computer Science,Sophomore,4.0,15,Part-time,6198.37,18,False,False
+1200343,17,Female,Engineering,Freshman,4.0,9,Unemployed,0.0,18,False,True
+1200344,20,Female,Computer Science,Sophomore,3.06,17,Full-time,16319.06,18,False,False
+1200345,17,Male,Economics,Freshman,3.48,17,Unemployed,0.0,12,True,False
+1200346,17,Female,Mathematics,Sophomore,3.01,15,Part-time,8308.68,15,False,True
+1200347,19,Male,Mathematics,Junior,3.11,13,Part-time,16571.31,15,False,False
+1200348,19,Female,Computer Science,Sophomore,3.2,9,Part-time,5987.53,15,False,True
+1200349,17,Male,Economics,Sophomore,2.38,10,Unemployed,0.0,18,False,False
+1200350,22,Female,Biology,Sophomore,4.0,19,Unemployed,0.0,12,False,True
+1200351,17,Female,Computer Science,Freshman,1.67,4,Unemployed,0.0,12,False,True
+1200352,19,Female,Biology,Freshman,2.21,17,Part-time,10735.41,18,True,False
+1200353,20,Female,Computer Science,Freshman,2.79,15,Unemployed,0.0,15,False,True
+1200354,17,Female,Computer Science,Junior,3.03,17,Part-time,11689.73,21,False,True
+1200355,17,Female,Engineering,Junior,2.92,18,Unemployed,0.0,15,False,False
+1200356,22,Male,Engineering,Sophomore,3.27,16,Unemployed,0.0,15,False,False
+1200357,17,Female,Engineering,Sophomore,2.94,13,Unemployed,0.0,18,True,True
+1200358,18,Female,Biology,Junior,3.35,19,Full-time,30622.5,15,False,False
+1200359,21,Female,Computer Science,Senior,3.29,23,Part-time,12234.19,18,False,True
+1200360,17,Male,Mathematics,Junior,4.0,15,Unemployed,0.0,18,False,False
+1200361,20,Female,Physics,Senior,3.02,20,Part-time,12502.73,15,True,False
+1200362,17,Male,Mathematics,Freshman,3.43,12,Part-time,8799.48,15,True,True
+1200363,17,Male,Engineering,Junior,3.09,15,Part-time,11379.67,21,False,False
+1200364,20,Male,Biology,Sophomore,3.3,16,Unemployed,0.0,12,False,False
+1200365,18,Male,Mathematics,Freshman,4.0,22,Unemployed,0.0,18,True,True
+1200366,19,Female,Computer Science,Sophomore,3.13,12,Unemployed,0.0,12,True,True
+1200367,25,Male,Mathematics,Junior,2.66,9,Part-time,13167.43,18,False,True
+1200368,20,Female,Biology,Freshman,3.53,21,Unemployed,0.0,18,True,True
+1200369,17,Female,Economics,Senior,3.14,7,Unemployed,0.0,12,False,False
+1200370,23,Male,Chemistry,Senior,3.27,22,Unemployed,0.0,21,True,True
+1200371,18,Female,Computer Science,Junior,4.0,20,Unemployed,0.0,18,True,False
+1200372,17,Male,Engineering,Senior,2.12,9,Part-time,12096.9,15,False,False
+1200373,17,Female,Psychology,Freshman,3.42,24,Unemployed,0.0,15,False,True
+1200374,18,Female,Computer Science,Sophomore,2.76,10,Unemployed,0.0,12,True,True
+1200375,19,Female,Engineering,Junior,3.01,13,Full-time,35263.1,18,False,True
+1200376,17,Female,Economics,Sophomore,3.29,23,Unemployed,0.0,15,False,True
+1200377,20,Female,Mathematics,Freshman,4.0,16,Unemployed,0.0,18,True,False
+1200378,17,Female,Computer Science,Junior,2.82,15,Unemployed,0.0,15,False,True
+1200379,21,Male,Engineering,Freshman,2.49,9,Unemployed,0.0,18,False,False
+1200380,17,Female,Computer Science,Senior,2.55,15,Part-time,15425.23,12,False,False
+1200381,20,Male,Engineering,Freshman,2.27,7,Unemployed,0.0,15,False,False
+1200382,19,Male,Engineering,Freshman,3.89,18,Part-time,2447.4,18,True,True
+1200383,21,Male,Computer Science,Sophomore,3.51,19,Part-time,9936.97,12,False,True
+1200384,20,Other,Computer Science,Senior,2.24,15,Part-time,15665.97,15,False,True
+1200385,20,Male,Engineering,Sophomore,2.72,8,Unemployed,0.0,12,True,True
+1200386,18,Female,Engineering,Junior,3.64,17,Part-time,9887.67,18,False,True
+1200387,21,Male,Chemistry,Senior,2.05,16,Part-time,10784.22,15,True,False
+1200388,17,Male,Computer Science,Junior,3.29,20,Part-time,11752.37,18,True,True
+1200389,17,Female,Chemistry,Sophomore,3.3,17,Unemployed,0.0,18,True,False
+1200390,21,Male,Mathematics,Junior,3.6,15,Part-time,8930.69,21,True,True
+1200391,24,Female,Engineering,Senior,3.51,20,Full-time,38382.86,18,False,False
+1200392,20,Female,Physics,Sophomore,3.13,16,Unemployed,0.0,18,False,True
+1200393,17,Male,Engineering,Freshman,2.7,16,Unemployed,0.0,18,True,True
+1200394,20,Female,Engineering,Senior,2.41,8,Unemployed,0.0,15,False,False
+1200395,17,Male,Economics,Junior,3.76,20,Part-time,11442.65,21,False,False
+1200396,17,Female,Biology,Junior,2.27,5,Part-time,11392.53,15,False,False
+1200397,17,Female,Computer Science,Sophomore,2.25,12,Part-time,5700.25,15,False,True
+1200398,22,Female,Economics,Freshman,3.67,19,Unemployed,0.0,15,False,True
+1200399,23,Female,Biology,Freshman,3.92,20,Full-time,32026.73,18,False,False
+1200400,23,Female,Chemistry,Freshman,2.58,9,Unemployed,0.0,15,False,True
+1200401,21,Male,Computer Science,Junior,3.86,18,Unemployed,0.0,18,True,False
+1200402,21,Male,Computer Science,Junior,3.07,21,Full-time,40886.45,18,False,False
+1200403,17,Female,Computer Science,Senior,2.85,16,Part-time,11246.75,18,False,False
+1200404,22,Male,Mathematics,Senior,3.63,20,Unemployed,0.0,15,False,True
+1200405,17,Female,Mathematics,Senior,3.99,16,Unemployed,0.0,18,True,True
+1200406,20,Female,Biology,Junior,3.02,11,Full-time,34571.98,21,True,True
+1200407,20,Female,Biology,Junior,2.08,10,Full-time,27068.41,18,False,True
+1200408,20,Male,Psychology,Junior,2.19,14,Part-time,10557.81,21,False,False
+1200409,18,Male,Physics,Junior,4.0,16,Part-time,10868.0,12,False,True
+1200410,19,Female,Physics,Junior,3.44,8,Unemployed,0.0,15,False,True
+1200411,23,Male,Engineering,Freshman,2.67,16,Unemployed,0.0,21,False,True
+1200412,17,Female,Chemistry,Senior,4.0,21,Part-time,13581.28,21,False,True
+1200413,17,Male,Psychology,Junior,2.85,15,Unemployed,0.0,18,False,False
+1200414,21,Male,Engineering,Freshman,3.25,13,Unemployed,0.0,12,False,True
+1200415,17,Male,Psychology,Freshman,2.92,15,Unemployed,0.0,15,True,True
+1200416,18,Male,Mathematics,Freshman,4.0,22,Part-time,8376.79,15,False,True
+1200417,22,Female,Computer Science,Junior,2.79,11,Part-time,13447.66,15,False,True
+1200418,19,Male,Mathematics,Freshman,3.23,13,Unemployed,0.0,18,False,False
+1200419,19,Female,Engineering,Sophomore,2.98,17,Unemployed,0.0,15,True,True
+1200420,22,Female,Mathematics,Sophomore,2.08,3,Part-time,4343.17,15,False,False
+1200421,18,Female,Engineering,Freshman,2.86,8,Unemployed,0.0,15,True,True
+1200422,21,Male,Biology,Sophomore,3.37,25,Unemployed,0.0,18,False,False
+1200423,17,Male,Physics,Junior,1.99,7,Unemployed,0.0,21,False,True
+1200424,17,Other,Engineering,Junior,3.51,23,Unemployed,0.0,15,False,True
+1200425,19,Male,Engineering,Junior,3.66,20,Part-time,13210.89,15,False,True
+1200426,18,Female,Chemistry,Junior,2.74,14,Full-time,43191.2,15,False,False
+1200427,20,Male,Biology,Sophomore,2.99,20,Unemployed,0.0,21,False,False
+1200428,25,Female,Engineering,Junior,3.83,8,Part-time,13972.9,18,False,True
+1200429,17,Female,Engineering,Junior,3.49,18,Unemployed,0.0,18,False,True
+1200430,23,Female,Psychology,Junior,4.0,15,Part-time,12893.21,15,False,True
+1200431,17,Male,Engineering,Sophomore,2.65,14,Unemployed,0.0,18,False,True
+1200432,17,Female,Biology,Sophomore,3.35,21,Unemployed,0.0,18,False,True
+1200433,25,Male,Psychology,Sophomore,3.43,7,Unemployed,0.0,18,False,False
+1200434,17,Female,Psychology,Junior,2.68,5,Unemployed,0.0,15,True,False
+1200435,20,Male,Mathematics,Junior,3.14,16,Part-time,10098.16,18,False,True
+1200436,20,Female,Psychology,Junior,2.75,14,Unemployed,0.0,15,False,True
+1200437,21,Female,Biology,Freshman,2.71,12,Part-time,7058.79,15,False,True
+1200438,19,Female,Computer Science,Sophomore,3.4,15,Full-time,19552.01,15,False,True
+1200439,19,Female,Engineering,Senior,3.53,14,Part-time,11246.63,18,False,True
+1200440,18,Female,Psychology,Senior,2.58,15,Full-time,31306.91,15,False,False
+1200441,17,Male,Mathematics,Freshman,3.57,14,Unemployed,0.0,21,True,True
+1200442,23,Female,Biology,Freshman,2.86,14,Part-time,7244.44,18,True,True
+1200443,19,Female,Engineering,Senior,3.48,20,Part-time,13214.4,15,False,False
+1200444,17,Male,Psychology,Senior,3.67,14,Part-time,13011.94,18,True,True
+1200445,19,Female,Mathematics,Senior,3.42,13,Part-time,14062.72,12,False,True
+1200446,22,Male,Biology,Freshman,2.96,17,Unemployed,0.0,15,False,True
+1200447,19,Male,Psychology,Junior,2.91,18,Part-time,11172.32,21,True,True
+1200448,19,Female,Engineering,Freshman,2.46,8,Part-time,8163.9,18,True,False
+1200449,19,Female,Computer Science,Sophomore,3.18,14,Unemployed,0.0,18,True,True
+1200450,21,Male,Biology,Sophomore,3.86,17,Part-time,5867.25,21,False,False
+1200451,18,Female,Biology,Sophomore,2.45,13,Unemployed,0.0,15,False,False
+1200452,17,Male,Computer Science,Freshman,2.9,14,Unemployed,0.0,21,False,False
+1200453,21,Male,Economics,Senior,3.0,9,Part-time,11920.36,15,False,False
+1200454,17,Male,Psychology,Sophomore,3.62,17,Unemployed,0.0,21,True,False
+1200455,22,Female,Engineering,Senior,3.76,15,Full-time,34103.72,18,False,True
+1200456,17,Female,Engineering,Junior,2.59,12,Unemployed,0.0,15,False,True
+1200457,20,Female,Psychology,Sophomore,2.85,9,Part-time,6626.51,21,False,False
+1200458,20,Male,Mathematics,Senior,4.0,25,Part-time,12134.84,21,True,True
+1200459,19,Female,Chemistry,Sophomore,3.31,9,Part-time,6670.36,15,False,True
+1200460,17,Male,Physics,Senior,2.7,6,Part-time,10668.55,15,False,True
+1200461,20,Male,Physics,Sophomore,3.64,11,Part-time,5967.87,15,True,True
+1200462,18,Male,Chemistry,Freshman,3.51,18,Part-time,759.33,18,False,True
+1200463,19,Female,Engineering,Sophomore,3.66,14,Unemployed,0.0,12,False,True
+1200464,20,Male,Physics,Freshman,3.66,22,Unemployed,0.0,15,False,False
+1200465,23,Male,Mathematics,Sophomore,3.69,20,Unemployed,0.0,18,False,True
+1200466,22,Male,Engineering,Freshman,3.39,15,Unemployed,0.0,15,True,True
+1200467,17,Male,Biology,Sophomore,2.94,16,Unemployed,0.0,18,False,True
+1200468,20,Male,Computer Science,Senior,2.74,8,Full-time,36018.54,15,False,True
+1200469,22,Male,Chemistry,Freshman,2.98,13,Unemployed,0.0,18,True,True
+1200470,22,Female,Biology,Sophomore,4.0,25,Unemployed,0.0,18,False,False
+1200471,20,Female,Engineering,Sophomore,3.22,15,Part-time,4259.99,15,False,True
+1200472,22,Male,Engineering,Sophomore,2.64,12,Unemployed,0.0,15,True,True
+1200473,21,Male,Computer Science,Sophomore,3.88,15,Part-time,8131.92,15,True,True
+1200474,18,Male,Biology,Senior,2.87,17,Part-time,11969.32,12,False,False
+1200475,22,Female,Engineering,Senior,3.13,16,Part-time,10555.12,15,False,True
+1200476,17,Female,Engineering,Freshman,3.63,15,Unemployed,0.0,15,True,False
+1200477,17,Male,Engineering,Freshman,4.0,17,Unemployed,0.0,15,True,True
+1200478,22,Female,Mathematics,Freshman,3.39,13,Unemployed,0.0,18,False,True
+1200479,17,Female,Chemistry,Freshman,3.49,26,Unemployed,0.0,15,False,True
+1200480,20,Male,Psychology,Freshman,3.09,23,Unemployed,0.0,18,False,False
+1200481,18,Female,Psychology,Freshman,3.18,19,Unemployed,0.0,18,True,False
+1200482,22,Female,Computer Science,Freshman,3.27,15,Unemployed,0.0,15,False,False
+1200483,24,Female,Computer Science,Junior,2.74,16,Part-time,11939.55,18,False,False
+1200484,21,Female,Biology,Junior,4.0,19,Unemployed,0.0,12,False,True
+1200485,18,Female,Chemistry,Sophomore,1.43,8,Unemployed,0.0,15,True,True
+1200486,19,Female,Engineering,Senior,2.43,8,Part-time,10423.47,18,True,True
+1200487,23,Female,Computer Science,Freshman,3.45,16,Unemployed,0.0,12,False,False
+1200488,17,Female,Economics,Senior,2.72,17,Full-time,34141.13,15,False,True
+1200489,21,Female,Computer Science,Senior,2.85,13,Part-time,11308.02,18,False,True
+1200490,19,Female,Computer Science,Freshman,2.33,9,Unemployed,0.0,21,False,False
+1200491,23,Female,Psychology,Freshman,3.98,18,Unemployed,0.0,18,False,True
+1200492,21,Male,Chemistry,Freshman,2.81,13,Unemployed,0.0,15,False,True
+1200493,19,Male,Physics,Junior,3.31,16,Part-time,14352.33,15,False,False
+1200494,26,Female,Biology,Sophomore,2.8,14,Unemployed,0.0,15,False,True
+1200495,20,Female,Psychology,Freshman,3.46,16,Unemployed,0.0,18,True,True
+1200496,20,Male,Computer Science,Sophomore,3.0,9,Part-time,11008.72,15,True,False
+1200497,17,Male,Engineering,Freshman,3.97,14,Full-time,27735.47,15,True,False
+1200498,21,Female,Engineering,Freshman,3.34,12,Full-time,22429.65,12,True,True
+1200499,23,Male,Computer Science,Senior,2.3,5,Part-time,14006.73,15,False,True
+1200500,22,Female,Computer Science,Freshman,2.72,7,Unemployed,0.0,18,False,True
+1200501,24,Female,Mathematics,Junior,4.0,13,Part-time,13746.7,12,True,True
+1200502,17,Female,Psychology,Freshman,2.66,15,Unemployed,0.0,18,True,True
+1200503,23,Female,Economics,Senior,1.93,5,Part-time,13672.87,15,True,True
+1200504,17,Female,Computer Science,Freshman,2.56,15,Unemployed,0.0,12,False,True
+1200505,19,Male,Engineering,Sophomore,3.86,25,Unemployed,0.0,12,True,True
+1200506,20,Male,Physics,Senior,3.22,10,Part-time,12878.39,15,False,True
+1200507,22,Female,Engineering,Sophomore,3.9,16,Unemployed,0.0,18,False,True
+1200508,19,Male,Computer Science,Junior,3.84,10,Unemployed,0.0,15,False,False
+1200509,20,Female,Chemistry,Senior,2.95,17,Full-time,30076.9,12,False,True
+1200510,23,Female,Biology,Senior,2.75,19,Full-time,32724.12,18,False,False
+1200511,17,Female,Psychology,Freshman,3.46,14,Unemployed,0.0,15,False,True
+1200512,20,Male,Computer Science,Junior,2.9,14,Part-time,13296.98,15,False,False
+1200513,18,Male,Computer Science,Junior,3.01,12,Unemployed,0.0,12,False,True
+1200514,20,Female,Biology,Freshman,2.87,11,Unemployed,0.0,15,False,True
+1200515,17,Female,Computer Science,Freshman,4.0,22,Unemployed,0.0,15,False,False
+1200516,21,Male,Mathematics,Freshman,3.7,22,Unemployed,0.0,18,False,False
+1200517,17,Female,Computer Science,Sophomore,2.4,10,Part-time,6839.39,15,False,True
+1200518,19,Male,Computer Science,Senior,2.31,15,Unemployed,0.0,15,False,True
+1200519,23,Male,Psychology,Senior,3.36,11,Part-time,13187.99,18,False,False
+1200520,20,Female,Computer Science,Junior,3.29,17,Part-time,12919.27,15,True,True
+1200521,20,Male,Economics,Junior,2.84,9,Unemployed,0.0,18,True,False
+1200522,17,Female,Chemistry,Junior,3.25,7,Part-time,12984.41,18,False,True
+1200523,19,Male,Engineering,Freshman,3.65,14,Unemployed,0.0,18,True,True
+1200524,20,Male,Engineering,Senior,3.19,13,Full-time,40201.86,15,False,False
+1200525,17,Male,Engineering,Sophomore,4.0,22,Unemployed,0.0,18,False,True
+1200526,18,Male,Psychology,Sophomore,2.97,7,Part-time,7667.99,18,False,True
+1200527,17,Male,Biology,Senior,2.37,6,Part-time,10727.25,15,False,True
+1200528,23,Male,Mathematics,Senior,4.0,24,Unemployed,0.0,15,False,True
+1200529,21,Female,Biology,Senior,2.51,7,Full-time,32299.12,15,True,True
+1200530,19,Female,Engineering,Sophomore,3.31,17,Unemployed,0.0,21,False,False
+1200531,17,Female,Psychology,Senior,2.36,10,Full-time,39067.3,21,True,True
+1200532,21,Female,Engineering,Sophomore,2.46,8,Part-time,6881.85,18,True,False
+1200533,19,Male,Mathematics,Junior,3.65,19,Part-time,10514.55,18,True,True
+1200534,21,Female,Physics,Junior,1.54,2,Unemployed,0.0,15,False,True
+1200535,21,Female,Engineering,Senior,3.36,20,Part-time,11352.92,21,False,False
+1200536,24,Male,Computer Science,Freshman,3.8,25,Part-time,8930.97,18,True,True
+1200537,19,Male,Computer Science,Junior,1.24,13,Part-time,10293.95,21,False,False
+1200538,18,Female,Computer Science,Sophomore,3.27,6,Unemployed,0.0,21,False,False
+1200539,17,Male,Physics,Senior,2.72,22,Full-time,37671.43,15,True,False
+1200540,20,Female,Psychology,Senior,2.37,8,Unemployed,0.0,15,True,True
+1200541,17,Male,Engineering,Junior,3.4,18,Unemployed,0.0,15,False,True
+1200542,20,Male,Chemistry,Senior,3.94,21,Unemployed,0.0,18,False,False
+1200543,18,Male,Physics,Junior,2.56,8,Part-time,13888.81,18,False,True
+1200544,20,Female,Biology,Sophomore,2.63,8,Unemployed,0.0,15,False,True
+1200545,20,Male,Chemistry,Freshman,3.58,14,Unemployed,0.0,18,False,False
+1200546,19,Male,Psychology,Sophomore,2.67,13,Part-time,8291.0,12,True,True
+1200547,17,Female,Computer Science,Senior,2.52,14,Part-time,11129.21,18,False,True
+1200548,18,Male,Computer Science,Senior,2.92,14,Part-time,10842.36,15,True,True
+1200549,23,Female,Biology,Senior,2.41,7,Part-time,9003.04,15,True,False
+1200550,22,Female,Physics,Senior,2.03,6,Part-time,16636.93,18,True,True
+1200551,18,Female,Physics,Sophomore,3.12,19,Unemployed,0.0,18,True,True
+1200552,18,Male,Mathematics,Senior,2.76,11,Unemployed,0.0,21,False,False
+1200553,20,Female,Economics,Sophomore,1.43,4,Unemployed,0.0,18,True,False
+1200554,22,Female,Biology,Junior,2.79,9,Unemployed,0.0,18,False,False
+1200555,21,Male,Computer Science,Freshman,3.43,19,Unemployed,0.0,18,False,True
+1200556,22,Female,Biology,Junior,2.78,13,Unemployed,0.0,18,True,True
+1200557,18,Female,Engineering,Freshman,2.95,15,Part-time,7688.91,18,False,True
+1200558,18,Male,Psychology,Sophomore,2.19,7,Unemployed,0.0,15,False,False
+1200559,17,Female,Computer Science,Freshman,4.0,20,Unemployed,0.0,15,False,False
+1200560,19,Female,Computer Science,Freshman,2.78,9,Full-time,32206.69,21,True,True
+1200561,18,Male,Biology,Junior,3.07,17,Full-time,41068.33,18,True,False
+1200562,21,Female,Biology,Junior,2.49,10,Unemployed,0.0,15,False,True
+1200563,19,Female,Biology,Senior,2.61,9,Unemployed,0.0,18,False,False
+1200564,19,Female,Engineering,Sophomore,2.92,17,Full-time,26423.54,18,False,False
+1200565,17,Male,Economics,Junior,3.53,18,Part-time,11891.19,21,False,True
+1200566,20,Male,Economics,Sophomore,2.74,19,Full-time,23636.18,18,True,True
+1200567,17,Female,Biology,Freshman,2.95,16,Unemployed,0.0,15,False,True
+1200568,18,Male,Economics,Senior,2.36,9,Unemployed,0.0,21,False,True
+1200569,21,Male,Mathematics,Freshman,3.57,16,Unemployed,0.0,15,False,False
+1200570,18,Male,Engineering,Sophomore,2.57,12,Part-time,12571.26,21,False,True
+1200571,20,Male,Computer Science,Junior,3.92,20,Part-time,11277.18,15,True,True
+1200572,21,Male,Mathematics,Freshman,3.02,19,Part-time,7725.75,21,True,True
+1200573,21,Female,Physics,Senior,2.97,15,Unemployed,0.0,21,True,True
+1200574,17,Male,Engineering,Freshman,3.85,17,Unemployed,0.0,18,False,False
+1200575,19,Male,Mathematics,Senior,2.12,14,Part-time,10020.65,18,False,True
+1200576,18,Male,Biology,Junior,2.67,12,Part-time,14939.45,18,False,False
+1200577,17,Male,Mathematics,Sophomore,2.29,7,Unemployed,0.0,18,False,True
+1200578,19,Male,Psychology,Junior,2.12,11,Part-time,8704.75,15,False,False
+1200579,22,Female,Biology,Freshman,4.0,13,Unemployed,0.0,18,False,True
+1200580,19,Male,Physics,Senior,3.38,16,Unemployed,0.0,15,False,False
+1200581,18,Female,Engineering,Freshman,3.55,7,Unemployed,0.0,18,False,False
+1200582,18,Female,Engineering,Senior,3.44,9,Full-time,36137.29,15,False,False
+1200583,22,Male,Computer Science,Freshman,2.62,14,Part-time,9595.35,21,False,True
+1200584,22,Female,Chemistry,Freshman,3.04,11,Unemployed,0.0,15,False,True
+1200585,20,Female,Engineering,Freshman,2.85,13,Unemployed,0.0,21,False,True
+1200586,23,Male,Psychology,Junior,3.63,21,Part-time,9610.16,18,True,True
+1200587,17,Female,Psychology,Junior,3.84,24,Part-time,14295.07,15,True,True
+1200588,20,Male,Psychology,Senior,3.51,13,Full-time,30680.57,15,False,False
+1200589,23,Female,Computer Science,Sophomore,1.94,2,Unemployed,0.0,18,True,False
+1200590,21,Female,Mathematics,Senior,2.01,5,Unemployed,0.0,15,False,False
+1200591,25,Male,Computer Science,Sophomore,3.31,13,Part-time,6336.63,18,True,True
+1200592,18,Female,Chemistry,Freshman,2.85,15,Unemployed,0.0,15,False,True
+1200593,17,Male,Computer Science,Sophomore,3.18,18,Unemployed,0.0,21,False,True
+1200594,17,Female,Computer Science,Freshman,2.81,18,Part-time,8444.79,15,False,True
+1200595,17,Male,Biology,Junior,2.5,10,Part-time,12209.5,18,False,False
+1200596,21,Female,Computer Science,Senior,2.94,6,Unemployed,0.0,18,True,True
+1200597,17,Male,Biology,Junior,3.36,20,Part-time,12451.82,18,False,False
+1200598,20,Female,Economics,Senior,2.91,11,Part-time,12262.51,21,False,False
+1200599,17,Female,Computer Science,Sophomore,4.0,19,Unemployed,0.0,18,False,False
+1200600,17,Female,Biology,Sophomore,3.32,13,Full-time,23253.87,15,False,False
+1200601,17,Female,Engineering,Junior,3.05,12,Unemployed,0.0,21,False,True
+1200602,21,Male,Mathematics,Sophomore,4.0,16,Part-time,7079.9,21,True,False
+1200603,17,Male,Economics,Freshman,2.37,17,Unemployed,0.0,15,False,True
+1200604,21,Female,Biology,Sophomore,2.56,9,Unemployed,0.0,12,True,False
+1200605,25,Male,Engineering,Senior,2.72,15,Part-time,12523.36,18,False,True
+1200606,22,Male,Physics,Sophomore,2.77,8,Part-time,10899.46,18,False,False
+1200607,21,Male,Computer Science,Junior,2.35,12,Unemployed,0.0,18,True,True
+1200608,18,Male,Psychology,Sophomore,3.65,22,Unemployed,0.0,15,False,True
+1200609,17,Male,Physics,Freshman,2.12,12,Part-time,8734.96,15,False,False
+1200610,22,Female,Engineering,Freshman,3.0,15,Part-time,8727.09,18,False,False
+1200611,19,Male,Mathematics,Sophomore,3.98,21,Part-time,6246.67,15,False,True
+1200612,18,Female,Computer Science,Freshman,3.18,11,Unemployed,0.0,18,False,False
+1200613,17,Female,Engineering,Freshman,2.5,13,Unemployed,0.0,18,False,True
+1200614,19,Male,Chemistry,Sophomore,4.0,20,Part-time,9802.9,15,False,True
+1200615,19,Female,Computer Science,Junior,2.7,18,Unemployed,0.0,18,False,True
+1200616,17,Female,Mathematics,Senior,3.44,20,Full-time,28827.11,15,False,True
+1200617,21,Female,Mathematics,Freshman,3.44,10,Unemployed,0.0,15,True,False
+1200618,18,Female,Economics,Sophomore,3.89,24,Unemployed,0.0,15,True,True
+1200619,19,Male,Biology,Freshman,1.79,13,Unemployed,0.0,15,False,True
+1200620,25,Female,Biology,Senior,2.31,19,Part-time,12732.34,15,False,True
+1200621,24,Female,Physics,Freshman,2.69,13,Part-time,5040.01,12,True,False
+1200622,20,Other,Psychology,Senior,2.18,12,Unemployed,0.0,21,True,False
+1200623,21,Male,Biology,Freshman,3.35,19,Unemployed,0.0,18,False,False
+1200624,19,Female,Psychology,Sophomore,2.5,13,Full-time,26370.58,21,True,False
+1200625,21,Female,Computer Science,Freshman,3.3,18,Full-time,28337.62,18,False,True
+1200626,24,Male,Physics,Senior,2.86,15,Unemployed,0.0,18,False,True
+1200627,23,Male,Biology,Senior,3.29,17,Part-time,7306.59,15,False,True
+1200628,19,Female,Computer Science,Freshman,3.57,23,Unemployed,0.0,18,False,True
+1200629,17,Female,Computer Science,Sophomore,2.74,7,Part-time,12049.45,18,False,False
+1200630,18,Male,Engineering,Freshman,3.25,16,Unemployed,0.0,15,False,True
+1200631,20,Male,Physics,Freshman,1.93,16,Part-time,9498.44,18,False,True
+1200632,18,Other,Engineering,Senior,3.08,11,Part-time,12417.9,21,False,True
+1200633,25,Female,Chemistry,Junior,3.21,14,Part-time,12922.84,15,False,False
+1200634,21,Male,Chemistry,Sophomore,2.08,5,Unemployed,0.0,21,False,False
+1200635,17,Female,Physics,Junior,3.55,22,Part-time,15474.76,12,False,True
+1200636,22,Other,Physics,Freshman,3.22,17,Unemployed,0.0,15,False,True
+1200637,24,Female,Biology,Sophomore,2.13,3,Unemployed,0.0,18,True,False
+1200638,22,Female,Chemistry,Junior,3.6,17,Unemployed,0.0,18,True,True
+1200639,19,Female,Engineering,Freshman,3.93,18,Part-time,9930.38,18,False,True
+1200640,21,Male,Mathematics,Freshman,3.1,15,Unemployed,0.0,18,False,True
+1200641,19,Male,Biology,Sophomore,2.54,13,Unemployed,0.0,18,False,True
+1200642,19,Female,Computer Science,Junior,2.45,17,Unemployed,0.0,12,False,False
+1200643,21,Female,Biology,Senior,2.97,21,Part-time,11358.86,18,False,False
+1200644,24,Male,Biology,Freshman,3.59,23,Unemployed,0.0,15,True,True
+1200645,18,Male,Computer Science,Junior,3.07,9,Part-time,13574.43,15,False,True
+1200646,20,Female,Physics,Senior,3.87,13,Unemployed,0.0,15,False,False
+1200647,22,Female,Economics,Sophomore,3.53,13,Part-time,5688.22,18,True,True
+1200648,17,Male,Biology,Senior,4.0,14,Full-time,35540.19,18,False,False
+1200649,22,Male,Computer Science,Sophomore,3.51,16,Part-time,7601.77,15,False,True
+1200650,22,Male,Mathematics,Freshman,2.94,14,Unemployed,0.0,12,False,False
+1200651,19,Male,Engineering,Freshman,3.54,16,Unemployed,0.0,12,False,True
+1200652,19,Male,Computer Science,Freshman,3.55,21,Unemployed,0.0,15,False,False
+1200653,20,Female,Biology,Sophomore,1.3,8,Unemployed,0.0,18,True,False
+1200654,18,Male,Mathematics,Sophomore,3.07,9,Part-time,5124.31,15,False,True
+1200655,19,Male,Psychology,Junior,2.5,10,Unemployed,0.0,18,False,False
+1200656,17,Male,Mathematics,Senior,3.65,18,Part-time,13718.35,18,False,False
+1200657,21,Male,Biology,Freshman,3.23,17,Unemployed,0.0,21,False,True
+1200658,20,Male,Engineering,Senior,1.77,13,Unemployed,0.0,15,False,False
+1200659,22,Male,Biology,Senior,4.0,19,Full-time,40945.7,18,True,True
+1200660,18,Male,Economics,Sophomore,2.46,19,Part-time,10053.27,15,False,False
+1200661,19,Female,Psychology,Sophomore,2.84,14,Unemployed,0.0,18,True,True
+1200662,22,Female,Mathematics,Senior,3.85,17,Part-time,13322.98,15,False,True
+1200663,17,Male,Biology,Junior,1.97,10,Part-time,15803.61,18,True,False
+1200664,20,Male,Physics,Senior,3.75,21,Part-time,9434.81,18,False,True
+1200665,20,Female,Computer Science,Freshman,1.83,8,Unemployed,0.0,15,False,False
+1200666,22,Female,Engineering,Freshman,2.75,9,Unemployed,0.0,15,False,True
+1200667,19,Male,Computer Science,Freshman,3.61,24,Part-time,10040.98,18,True,True
+1200668,21,Male,Biology,Freshman,2.71,8,Unemployed,0.0,15,False,True
+1200669,23,Male,Chemistry,Senior,3.63,24,Unemployed,0.0,18,False,False
+1200670,19,Female,Biology,Junior,2.86,13,Part-time,13867.25,15,False,True
+1200671,23,Female,Computer Science,Junior,3.7,15,Part-time,13825.15,12,False,False
+1200672,22,Female,Computer Science,Senior,3.15,22,Part-time,13798.6,12,False,True
+1200673,21,Male,Physics,Sophomore,2.52,16,Part-time,7842.29,15,False,False
+1200674,19,Male,Computer Science,Freshman,2.26,9,Unemployed,0.0,15,True,True
+1200675,21,Male,Psychology,Junior,2.47,13,Part-time,12850.86,18,False,True
+1200676,19,Female,Computer Science,Freshman,3.69,16,Unemployed,0.0,12,False,True
+1200677,21,Male,Computer Science,Junior,2.73,12,Part-time,12435.86,21,False,True
+1200678,17,Female,Biology,Freshman,3.8,15,Unemployed,0.0,15,True,False
+1200679,25,Female,Physics,Freshman,3.79,12,Part-time,9549.81,18,False,True
+1200680,19,Male,Computer Science,Senior,2.5,12,Full-time,38432.22,15,False,False
+1200681,19,Female,Engineering,Senior,2.82,17,Part-time,12413.79,15,False,True
+1200682,20,Male,Mathematics,Freshman,3.17,13,Part-time,5923.94,18,False,False
+1200683,17,Female,Engineering,Freshman,3.09,11,Unemployed,0.0,15,False,True
+1200684,21,Male,Computer Science,Freshman,3.31,11,Part-time,7927.75,15,False,True
+1200685,22,Female,Psychology,Freshman,1.89,2,Unemployed,0.0,18,False,True
+1200686,17,Male,Psychology,Freshman,2.9,13,Unemployed,0.0,15,False,True
+1200687,21,Male,Mathematics,Sophomore,2.96,13,Unemployed,0.0,15,True,True
+1200688,22,Female,Economics,Senior,3.24,15,Unemployed,0.0,18,False,True
+1200689,19,Female,Biology,Junior,2.67,13,Full-time,39272.88,15,False,True
+1200690,18,Male,Mathematics,Senior,3.24,15,Unemployed,0.0,15,True,True
+1200691,24,Male,Computer Science,Senior,2.61,14,Part-time,16022.79,21,False,True
+1200692,25,Female,Computer Science,Freshman,3.82,24,Unemployed,0.0,12,False,True
+1200693,19,Male,Engineering,Junior,2.21,15,Full-time,32762.36,15,True,True
+1200694,20,Female,Physics,Junior,4.0,23,Part-time,11599.17,18,True,True
+1200695,18,Female,Psychology,Sophomore,3.4,12,Part-time,11072.17,15,False,False
+1200696,24,Female,Psychology,Freshman,3.53,18,Part-time,9573.08,18,False,True
+1200697,19,Male,Psychology,Senior,2.22,8,Part-time,11903.26,21,False,False
+1200698,17,Female,Engineering,Senior,3.36,6,Part-time,8605.03,18,False,True
+1200699,18,Male,Biology,Freshman,2.28,17,Unemployed,0.0,12,True,True
+1200700,17,Female,Chemistry,Senior,3.54,18,Full-time,26879.97,15,True,True
+1200701,20,Other,Chemistry,Junior,3.16,15,Unemployed,0.0,18,False,True
+1200702,19,Female,Engineering,Freshman,3.78,26,Unemployed,0.0,18,True,True
+1200703,19,Female,Biology,Junior,3.34,15,Part-time,8149.27,18,False,False
+1200704,19,Male,Psychology,Junior,2.5,9,Full-time,29377.89,12,True,True
+1200705,19,Male,Biology,Junior,2.82,15,Part-time,12785.99,21,True,True
+1200706,20,Female,Chemistry,Junior,2.66,15,Unemployed,0.0,15,False,True
+1200707,23,Male,Physics,Senior,3.31,15,Part-time,10518.7,18,True,True
+1200708,20,Female,Engineering,Junior,2.94,15,Part-time,11864.01,15,False,False
+1200709,22,Female,Computer Science,Junior,3.74,23,Part-time,11334.06,15,True,False
+1200710,17,Female,Computer Science,Freshman,3.77,11,Unemployed,0.0,12,False,False
+1200711,17,Female,Economics,Sophomore,3.36,22,Unemployed,0.0,15,False,False
+1200712,18,Male,Chemistry,Junior,3.74,13,Unemployed,0.0,21,False,True
+1200713,19,Male,Computer Science,Senior,3.02,14,Part-time,11203.44,15,False,False
+1200714,23,Female,Mathematics,Sophomore,2.74,13,Unemployed,0.0,18,False,False
+1200715,20,Female,Biology,Senior,3.31,18,Part-time,11492.67,18,False,True
+1200716,17,Male,Engineering,Freshman,3.37,14,Unemployed,0.0,15,False,True
+1200717,22,Male,Mathematics,Senior,2.39,12,Part-time,15298.5,18,False,True
+1200718,17,Female,Physics,Freshman,3.52,14,Unemployed,0.0,15,True,False
+1200719,21,Male,Physics,Senior,3.41,14,Unemployed,0.0,18,False,False
+1200720,17,Female,Psychology,Freshman,3.21,7,Full-time,31225.11,15,False,False
+1200721,19,Female,Biology,Freshman,2.44,8,Part-time,12035.18,15,True,False
+1200722,17,Male,Psychology,Freshman,3.17,20,Part-time,4198.58,15,True,False
+1200723,19,Male,Computer Science,Freshman,4.0,18,Unemployed,0.0,18,False,True
+1200724,21,Female,Biology,Senior,4.0,12,Unemployed,0.0,15,True,True
+1200725,18,Male,Mathematics,Sophomore,3.77,23,Unemployed,0.0,15,False,True
+1200726,22,Female,Mathematics,Freshman,3.55,19,Full-time,22901.44,18,False,False
+1200727,19,Female,Computer Science,Freshman,2.73,15,Part-time,7482.79,12,False,True
+1200728,20,Female,Biology,Junior,2.31,7,Unemployed,0.0,18,False,True
+1200729,18,Male,Biology,Sophomore,2.43,12,Unemployed,0.0,18,True,True
+1200730,24,Other,Economics,Senior,3.95,22,Part-time,10698.34,15,False,True
+1200731,18,Male,Engineering,Freshman,3.94,15,Unemployed,0.0,18,False,True
+1200732,19,Female,Engineering,Junior,2.69,10,Unemployed,0.0,15,False,True
+1200733,21,Male,Engineering,Senior,3.02,13,Full-time,32661.87,21,True,True
+1200734,19,Female,Biology,Senior,3.58,20,Part-time,10899.98,21,False,True
+1200735,17,Female,Engineering,Freshman,2.73,15,Part-time,7866.9,15,False,True
+1200736,17,Male,Engineering,Freshman,2.81,11,Unemployed,0.0,15,False,True
+1200737,21,Male,Computer Science,Junior,2.31,9,Unemployed,0.0,18,True,True
+1200738,18,Female,Computer Science,Freshman,3.51,13,Part-time,12765.26,15,False,False
+1200739,17,Male,Biology,Senior,1.96,3,Part-time,11646.03,15,False,True
+1200740,17,Male,Mathematics,Sophomore,3.23,13,Part-time,5640.26,18,False,True
+1200741,17,Male,Mathematics,Sophomore,2.48,14,Unemployed,0.0,12,False,True
+1200742,18,Female,Biology,Freshman,2.98,10,Part-time,11480.26,15,True,True
+1200743,21,Male,Engineering,Senior,1.75,7,Part-time,11604.21,21,True,True
+1200744,21,Female,Engineering,Freshman,3.19,17,Unemployed,0.0,18,False,False
+1200745,21,Male,Psychology,Freshman,2.9,13,Unemployed,0.0,18,False,True
+1200746,20,Male,Psychology,Freshman,2.99,19,Full-time,25839.33,15,False,True
+1200747,23,Male,Chemistry,Sophomore,3.56,24,Part-time,9259.26,18,False,True
+1200748,19,Female,Engineering,Freshman,2.46,8,Unemployed,0.0,18,True,False
+1200749,17,Female,Psychology,Freshman,3.28,13,Unemployed,0.0,18,True,False
+1200750,21,Male,Engineering,Junior,2.79,21,Part-time,10881.04,15,False,True
+1200751,19,Female,Chemistry,Senior,2.63,4,Unemployed,0.0,15,False,True
+1200752,23,Female,Computer Science,Sophomore,2.93,13,Part-time,4076.31,18,True,False
+1200753,20,Female,Computer Science,Freshman,2.1,10,Unemployed,0.0,18,False,False
+1200754,17,Female,Psychology,Junior,2.84,18,Unemployed,0.0,12,False,True
+1200755,18,Female,Biology,Sophomore,3.15,7,Unemployed,0.0,21,False,False
+1200756,22,Female,Engineering,Freshman,2.73,19,Unemployed,0.0,18,False,False
+1200757,20,Male,Chemistry,Sophomore,4.0,15,Unemployed,0.0,12,False,True
+1200758,21,Female,Chemistry,Senior,3.44,20,Full-time,26680.53,18,False,True
+1200759,20,Female,Psychology,Junior,3.16,12,Part-time,11634.57,18,True,True
+1200760,17,Female,Mathematics,Sophomore,3.24,18,Unemployed,0.0,18,True,True
+1200761,23,Male,Computer Science,Junior,2.17,12,Unemployed,0.0,15,False,True
+1200762,18,Female,Economics,Junior,3.31,20,Part-time,7839.88,12,True,True
+1200763,21,Female,Economics,Freshman,1.73,9,Unemployed,0.0,15,True,True
+1200764,21,Female,Engineering,Junior,2.3,16,Unemployed,0.0,21,False,True
+1200765,18,Female,Mathematics,Senior,3.17,4,Part-time,10574.91,18,False,False
+1200766,18,Male,Mathematics,Senior,3.24,11,Part-time,10892.87,15,False,False
+1200767,20,Male,Mathematics,Senior,2.39,9,Full-time,29898.58,18,False,True
+1200768,20,Male,Biology,Sophomore,3.7,14,Part-time,10682.25,18,False,True
+1200769,21,Female,Chemistry,Freshman,4.0,17,Unemployed,0.0,15,False,False
+1200770,24,Female,Biology,Junior,3.26,17,Unemployed,0.0,15,True,True
+1200771,19,Male,Physics,Freshman,3.04,9,Unemployed,0.0,18,False,False
+1200772,17,Female,Mathematics,Senior,3.59,23,Unemployed,0.0,18,True,True
+1200773,22,Male,Psychology,Senior,3.23,19,Part-time,11622.9,18,False,False
+1200774,19,Male,Computer Science,Senior,3.14,13,Full-time,38436.0,18,True,True
+1200775,18,Male,Physics,Sophomore,2.46,10,Unemployed,0.0,21,False,False
+1200776,21,Male,Mathematics,Freshman,3.56,15,Unemployed,0.0,15,False,False
+1200777,18,Male,Physics,Sophomore,3.92,15,Unemployed,0.0,21,True,True
+1200778,22,Male,Computer Science,Freshman,3.13,10,Part-time,7761.34,21,False,True
+1200779,20,Female,Psychology,Freshman,3.21,11,Unemployed,0.0,18,False,True
+1200780,20,Female,Biology,Sophomore,3.53,14,Unemployed,0.0,18,True,False
+1200781,23,Female,Engineering,Junior,3.25,14,Unemployed,0.0,15,False,True
+1200782,22,Female,Psychology,Freshman,2.45,2,Part-time,7162.98,15,False,True
+1200783,20,Female,Biology,Freshman,3.64,13,Unemployed,0.0,21,False,True
+1200784,17,Male,Biology,Freshman,3.17,23,Unemployed,0.0,15,True,False
+1200785,22,Male,Computer Science,Sophomore,2.39,12,Part-time,10368.14,15,False,False
+1200786,18,Female,Mathematics,Junior,2.7,5,Part-time,12545.32,18,True,True
+1200787,20,Female,Engineering,Junior,3.21,13,Unemployed,0.0,21,True,True
+1200788,20,Male,Engineering,Freshman,3.5,13,Unemployed,0.0,21,False,False
+1200789,17,Male,Psychology,Freshman,3.52,22,Part-time,9500.64,15,False,True
+1200790,17,Male,Economics,Junior,2.95,10,Unemployed,0.0,15,True,True
+1200791,18,Male,Computer Science,Junior,3.44,10,Unemployed,0.0,15,False,True
+1200792,18,Female,Physics,Senior,3.31,18,Unemployed,0.0,12,False,True
+1200793,21,Female,Computer Science,Senior,3.11,16,Unemployed,0.0,18,False,True
+1200794,17,Male,Engineering,Sophomore,3.18,11,Part-time,12187.95,12,True,False
+1200795,22,Male,Engineering,Junior,3.07,24,Part-time,7545.35,21,True,True
+1200796,22,Female,Engineering,Senior,3.36,16,Part-time,10087.67,15,False,True
+1200797,17,Female,Computer Science,Freshman,2.67,10,Unemployed,0.0,18,True,True
+1200798,23,Female,Mathematics,Junior,3.57,25,Part-time,9459.48,18,True,True
+1200799,26,Male,Biology,Senior,2.59,15,Part-time,10296.29,15,False,False
+1200800,22,Female,Physics,Junior,4.0,18,Unemployed,0.0,18,False,True
+1200801,22,Female,Engineering,Sophomore,2.33,8,Unemployed,0.0,21,False,True
+1200802,17,Male,Psychology,Sophomore,2.92,12,Unemployed,0.0,18,False,True
+1200803,19,Male,Chemistry,Freshman,4.0,15,Unemployed,0.0,18,True,True
+1200804,21,Female,Psychology,Senior,3.23,24,Part-time,11902.58,18,False,False
+1200805,17,Male,Engineering,Senior,3.5,11,Unemployed,0.0,15,False,False
+1200806,28,Male,Engineering,Junior,2.66,15,Part-time,12456.94,15,False,False
+1200807,23,Female,Biology,Junior,2.8,13,Full-time,28079.61,18,False,True
+1200808,17,Male,Computer Science,Freshman,3.9,13,Part-time,9372.4,18,True,True
+1200809,22,Female,Engineering,Freshman,2.13,16,Full-time,31486.55,21,False,True
+1200810,17,Female,Economics,Senior,1.76,5,Unemployed,0.0,15,False,True
+1200811,18,Male,Computer Science,Sophomore,4.0,12,Unemployed,0.0,18,True,True
+1200812,21,Male,Biology,Freshman,2.97,14,Full-time,16698.89,15,True,True
+1200813,22,Male,Computer Science,Junior,2.83,17,Unemployed,0.0,12,False,True
+1200814,22,Male,Psychology,Sophomore,2.55,12,Part-time,10895.25,18,False,True
+1200815,20,Male,Computer Science,Senior,2.43,5,Full-time,35774.14,18,False,True
+1200816,17,Female,Chemistry,Junior,2.84,9,Part-time,11301.17,15,False,True
+1200817,17,Female,Mathematics,Freshman,3.48,16,Unemployed,0.0,15,True,False
+1200818,20,Male,Mathematics,Junior,3.71,17,Full-time,24513.66,18,True,True
+1200819,21,Male,Biology,Sophomore,2.98,5,Unemployed,0.0,15,False,True
+1200820,24,Male,Engineering,Sophomore,3.76,23,Unemployed,0.0,15,True,True
+1200821,20,Male,Biology,Sophomore,3.32,15,Part-time,12567.48,12,False,False
+1200822,19,Male,Economics,Sophomore,2.33,7,Unemployed,0.0,15,True,False
+1200823,18,Other,Mathematics,Junior,2.52,11,Part-time,8046.23,15,False,False
+1200824,27,Female,Chemistry,Freshman,2.17,11,Unemployed,0.0,15,False,False
+1200825,23,Male,Engineering,Senior,2.29,17,Full-time,31492.09,15,False,True
+1200826,19,Male,Computer Science,Sophomore,3.37,11,Unemployed,0.0,18,True,False
+1200827,23,Male,Chemistry,Sophomore,3.84,16,Part-time,7677.05,21,False,True
+1200828,18,Male,Mathematics,Senior,2.72,11,Unemployed,0.0,18,False,False
+1200829,17,Male,Economics,Junior,1.96,7,Full-time,28810.27,21,False,True
+1200830,21,Male,Biology,Junior,3.14,12,Part-time,10274.01,18,False,True
+1200831,18,Female,Computer Science,Senior,2.94,8,Part-time,14003.43,18,False,True
+1200832,19,Male,Chemistry,Sophomore,2.64,7,Part-time,14425.98,15,False,True
+1200833,19,Female,Biology,Freshman,3.67,21,Full-time,26180.45,21,False,False
+1200834,21,Male,Engineering,Junior,3.57,22,Part-time,16890.55,18,False,True
+1200835,19,Female,Computer Science,Senior,3.39,13,Unemployed,0.0,15,False,False
+1200836,17,Female,Engineering,Freshman,1.96,14,Part-time,6940.19,15,False,False
+1200837,18,Female,Biology,Junior,2.59,12,Unemployed,0.0,18,True,False
+1200838,19,Male,Chemistry,Freshman,2.57,11,Unemployed,0.0,21,False,False
+1200839,20,Female,Engineering,Senior,4.0,18,Part-time,9070.18,15,True,True
+1200840,20,Male,Computer Science,Senior,3.44,14,Unemployed,0.0,12,False,True
+1200841,20,Female,Computer Science,Freshman,3.44,16,Part-time,6044.67,15,False,True
+1200842,21,Male,Engineering,Senior,3.18,8,Part-time,13329.8,15,True,True
+1200843,21,Male,Chemistry,Freshman,3.94,17,Unemployed,0.0,15,False,True
+1200844,17,Male,Computer Science,Sophomore,4.0,18,Unemployed,0.0,21,True,False
+1200845,21,Male,Physics,Freshman,2.77,13,Unemployed,0.0,18,False,True
+1200846,22,Female,Computer Science,Junior,2.6,10,Unemployed,0.0,18,True,True
+1200847,17,Male,Engineering,Junior,3.69,20,Unemployed,0.0,15,False,False
+1200848,21,Female,Biology,Senior,3.67,15,Part-time,13759.86,18,False,True
+1200849,24,Male,Mathematics,Junior,3.9,19,Part-time,13350.54,18,False,False
+1200850,22,Female,Biology,Sophomore,2.37,15,Part-time,9985.26,15,False,False
+1200851,20,Male,Biology,Senior,4.0,21,Full-time,35065.0,15,False,True
+1200852,17,Female,Economics,Senior,2.79,6,Full-time,28546.87,15,False,True
+1200853,17,Male,Engineering,Freshman,2.88,17,Unemployed,0.0,15,True,False
+1200854,20,Male,Chemistry,Freshman,3.76,17,Unemployed,0.0,18,False,True
+1200855,21,Female,Chemistry,Senior,3.86,12,Full-time,32386.44,18,False,False
+1200856,20,Male,Physics,Senior,2.91,10,Part-time,12563.56,15,False,True
+1200857,23,Female,Mathematics,Senior,2.18,5,Full-time,27232.18,15,False,False
+1200858,22,Male,Computer Science,Freshman,3.02,7,Part-time,7069.86,15,False,True
+1200859,22,Male,Engineering,Senior,3.81,15,Part-time,12520.56,18,False,True
+1200860,17,Female,Computer Science,Senior,2.98,12,Part-time,13077.47,15,False,False
+1200861,21,Female,Psychology,Freshman,3.14,14,Unemployed,0.0,15,False,True
+1200862,17,Female,Engineering,Senior,1.73,10,Unemployed,0.0,15,True,True
+1200863,19,Female,Chemistry,Sophomore,3.11,10,Unemployed,0.0,21,False,True
+1200864,17,Male,Computer Science,Junior,3.05,21,Part-time,14020.72,15,True,False
+1200865,21,Male,Physics,Freshman,3.19,22,Unemployed,0.0,21,False,True
+1200866,18,Male,Computer Science,Freshman,2.95,22,Part-time,6826.51,21,False,False
+1200867,21,Male,Physics,Freshman,3.19,19,Unemployed,0.0,18,False,True
+1200868,18,Male,Computer Science,Senior,3.11,15,Unemployed,0.0,18,False,True
+1200869,22,Male,Mathematics,Freshman,2.14,10,Part-time,9011.51,15,False,False
+1200870,18,Male,Computer Science,Sophomore,2.92,19,Unemployed,0.0,18,False,True
+1200871,21,Female,Chemistry,Senior,3.6,18,Unemployed,0.0,18,False,True
+1200872,20,Male,Biology,Sophomore,3.46,13,Unemployed,0.0,18,False,False
+1200873,17,Male,Psychology,Senior,3.65,12,Full-time,38732.65,15,False,False
+1200874,23,Male,Computer Science,Sophomore,3.23,18,Unemployed,0.0,18,False,True
+1200875,20,Male,Chemistry,Freshman,4.0,16,Part-time,8259.91,12,False,True
+1200876,23,Female,Physics,Sophomore,3.49,15,Part-time,11660.58,15,False,True
+1200877,17,Male,Physics,Senior,2.62,10,Full-time,41111.52,18,False,False
+1200878,20,Female,Biology,Freshman,3.02,15,Unemployed,0.0,15,False,True
+1200879,18,Male,Physics,Junior,4.0,26,Unemployed,0.0,15,False,True
+1200880,17,Male,Economics,Senior,2.14,5,Part-time,12437.3,15,False,True
+1200881,18,Female,Computer Science,Junior,3.39,19,Full-time,29084.83,12,True,False
+1200882,18,Male,Engineering,Junior,3.25,14,Part-time,12692.88,18,False,False
+1200883,18,Female,Biology,Sophomore,2.47,6,Part-time,8439.35,21,False,True
+1200884,18,Male,Economics,Junior,2.7,11,Part-time,14347.28,12,True,True
+1200885,22,Male,Economics,Sophomore,2.49,9,Unemployed,0.0,18,False,True
+1200886,23,Female,Physics,Freshman,3.75,20,Part-time,8678.0,18,False,True
+1200887,17,Female,Economics,Senior,2.67,17,Unemployed,0.0,18,True,True
+1200888,21,Male,Computer Science,Sophomore,2.57,15,Unemployed,0.0,12,False,True
+1200889,19,Female,Biology,Freshman,2.97,16,Part-time,7341.23,12,False,False
+1200890,17,Female,Mathematics,Sophomore,3.85,23,Unemployed,0.0,15,False,False
+1200891,17,Female,Biology,Junior,2.85,12,Unemployed,0.0,15,False,False
+1200892,19,Male,Psychology,Sophomore,3.2,18,Part-time,9434.4,18,False,False
+1200893,17,Female,Biology,Senior,3.39,12,Unemployed,0.0,15,False,False
+1200894,24,Female,Engineering,Junior,3.53,9,Part-time,9140.44,18,True,False
+1200895,24,Female,Computer Science,Freshman,4.0,22,Unemployed,0.0,18,True,True
+1200896,17,Male,Biology,Junior,3.53,13,Unemployed,0.0,12,True,True
+1200897,18,Male,Engineering,Senior,4.0,21,Unemployed,0.0,15,True,True
+1200898,20,Male,Engineering,Freshman,3.44,17,Part-time,9354.08,15,False,True
+1200899,22,Female,Psychology,Sophomore,2.5,5,Part-time,10543.13,15,False,True
+1200900,20,Male,Physics,Junior,2.47,16,Part-time,11061.18,15,False,False
+1200901,17,Male,Psychology,Junior,2.71,8,Full-time,41957.88,18,True,False
+1200902,17,Female,Computer Science,Sophomore,3.53,17,Full-time,23086.31,18,False,True
+1200903,19,Female,Engineering,Sophomore,3.99,19,Unemployed,0.0,18,False,False
+1200904,19,Female,Computer Science,Junior,2.23,4,Unemployed,0.0,15,False,True
+1200905,19,Female,Economics,Sophomore,2.8,16,Part-time,8329.67,15,False,False
+1200906,20,Female,Computer Science,Freshman,3.2,14,Unemployed,0.0,15,True,False
+1200907,17,Male,Biology,Junior,2.39,9,Unemployed,0.0,15,True,True
+1200908,18,Female,Chemistry,Sophomore,3.72,13,Part-time,8525.82,15,True,True
+1200909,17,Female,Psychology,Sophomore,3.45,19,Unemployed,0.0,18,False,False
+1200910,21,Male,Mathematics,Senior,2.67,11,Part-time,11407.84,18,True,True
+1200911,19,Male,Engineering,Senior,2.5,14,Full-time,40437.0,18,False,True
+1200912,17,Female,Economics,Junior,3.3,19,Part-time,11891.09,15,False,True
+1200913,20,Male,Computer Science,Senior,4.0,18,Full-time,37082.36,15,False,True
+1200914,17,Other,Engineering,Freshman,3.82,15,Part-time,7553.36,15,False,False
+1200915,19,Female,Physics,Sophomore,3.48,15,Unemployed,0.0,15,False,True
+1200916,21,Male,Physics,Sophomore,4.0,17,Unemployed,0.0,18,False,False
+1200917,20,Male,Biology,Junior,3.44,13,Unemployed,0.0,15,False,True
+1200918,20,Female,Engineering,Freshman,4.0,20,Unemployed,0.0,18,False,True
+1200919,18,Male,Physics,Freshman,2.23,10,Unemployed,0.0,18,True,False
+1200920,20,Male,Computer Science,Junior,3.03,13,Part-time,10183.36,21,True,True
+1200921,17,Male,Biology,Junior,3.57,15,Part-time,16124.66,15,False,True
+1200922,17,Female,Biology,Sophomore,1.54,7,Full-time,32387.4,15,False,False
+1200923,27,Female,Biology,Sophomore,2.65,11,Unemployed,0.0,18,True,False
+1200924,18,Male,Mathematics,Senior,3.96,21,Unemployed,0.0,15,False,False
+1200925,17,Female,Engineering,Freshman,3.64,19,Unemployed,0.0,12,False,False
+1200926,20,Male,Computer Science,Junior,2.98,8,Part-time,11581.91,15,False,True
+1200927,22,Female,Psychology,Junior,2.61,11,Unemployed,0.0,15,False,False
+1200928,17,Male,Engineering,Junior,0.6,2,Part-time,13282.59,18,False,False
+1200929,17,Male,Biology,Junior,3.23,16,Unemployed,0.0,18,True,False
+1200930,25,Male,Computer Science,Freshman,2.31,3,Unemployed,0.0,15,False,True
+1200931,17,Female,Engineering,Freshman,2.52,12,Unemployed,0.0,21,True,True
+1200932,17,Male,Computer Science,Senior,3.54,10,Full-time,28843.14,18,False,False
+1200933,18,Female,Chemistry,Junior,2.42,8,Part-time,16098.07,15,True,True
+1200934,21,Male,Chemistry,Sophomore,3.43,18,Part-time,6021.37,18,False,False
+1200935,23,Male,Computer Science,Freshman,3.14,13,Unemployed,0.0,15,True,True
+1200936,20,Female,Psychology,Junior,2.3,10,Unemployed,0.0,15,False,True
+1200937,17,Male,Engineering,Freshman,3.49,15,Unemployed,0.0,18,False,True
+1200938,18,Male,Physics,Freshman,3.03,23,Unemployed,0.0,15,False,True
+1200939,20,Male,Computer Science,Senior,3.79,25,Full-time,35975.19,21,False,True
+1200940,18,Male,Biology,Sophomore,3.28,23,Unemployed,0.0,18,True,False
+1200941,19,Female,Computer Science,Junior,3.47,26,Part-time,13043.55,18,False,True
+1200942,22,Male,Mathematics,Junior,2.47,3,Part-time,14279.08,18,False,False
+1200943,21,Male,Computer Science,Junior,3.74,20,Unemployed,0.0,18,False,False
+1200944,21,Male,Psychology,Senior,3.95,16,Part-time,11811.28,15,False,False
+1200945,21,Female,Computer Science,Junior,3.22,19,Part-time,12396.71,15,True,False
+1200946,17,Male,Physics,Junior,2.67,16,Unemployed,0.0,15,False,True
+1200947,20,Female,Biology,Sophomore,3.0,15,Unemployed,0.0,12,False,False
+1200948,25,Female,Economics,Junior,3.36,18,Unemployed,0.0,21,True,False
+1200949,18,Female,Biology,Junior,2.69,13,Part-time,12690.38,18,True,True
+1200950,18,Male,Engineering,Sophomore,2.79,14,Unemployed,0.0,15,False,False
+1200951,20,Male,Computer Science,Sophomore,4.0,21,Unemployed,0.0,18,False,True
+1200952,22,Female,Computer Science,Freshman,2.75,10,Part-time,6691.35,18,True,True
+1200953,20,Female,Computer Science,Freshman,3.4,13,Unemployed,0.0,15,False,True
+1200954,22,Male,Biology,Senior,3.23,13,Part-time,10540.0,15,False,True
+1200955,20,Female,Psychology,Sophomore,2.72,6,Part-time,8656.72,12,False,True
+1200956,22,Female,Engineering,Senior,3.21,10,Full-time,40185.47,18,False,True
+1200957,22,Male,Computer Science,Senior,2.89,12,Unemployed,0.0,15,False,True
+1200958,20,Female,Mathematics,Junior,3.25,13,Part-time,13038.09,21,False,True
+1200959,17,Female,Biology,Senior,2.83,17,Unemployed,0.0,15,True,True
+1200960,19,Female,Biology,Junior,3.59,16,Part-time,10889.72,12,True,True
+1200961,22,Female,Engineering,Freshman,2.51,12,Unemployed,0.0,15,False,True
+1200962,21,Female,Chemistry,Junior,2.31,2,Part-time,10541.49,15,True,False
+1200963,18,Male,Computer Science,Sophomore,2.47,17,Unemployed,0.0,12,False,False
+1200964,19,Female,Biology,Junior,3.37,13,Unemployed,0.0,15,False,True
+1200965,22,Female,Engineering,Freshman,1.7,5,Unemployed,0.0,15,False,True
+1200966,19,Female,Economics,Junior,2.93,17,Unemployed,0.0,18,False,True
+1200967,17,Female,Computer Science,Senior,2.69,16,Full-time,37092.91,18,False,False
+1200968,23,Male,Psychology,Sophomore,2.01,7,Part-time,5997.97,12,True,True
+1200969,21,Male,Mathematics,Sophomore,2.38,14,Part-time,7091.65,18,False,True
+1200970,20,Female,Engineering,Freshman,3.37,21,Unemployed,0.0,15,True,True
+1200971,21,Male,Mathematics,Senior,3.75,17,Part-time,12451.13,15,False,True
+1200972,21,Male,Engineering,Sophomore,2.57,13,Unemployed,0.0,18,False,True
+1200973,17,Female,Physics,Freshman,4.0,23,Part-time,5056.72,18,False,True
+1200974,17,Male,Biology,Junior,2.81,7,Full-time,33574.58,18,False,True
+1200975,17,Female,Engineering,Senior,3.04,13,Unemployed,0.0,15,True,True
+1200976,21,Female,Engineering,Senior,2.67,12,Full-time,30609.75,15,True,True
+1200977,20,Male,Mathematics,Junior,2.37,9,Unemployed,0.0,18,False,False
+1200978,19,Female,Engineering,Junior,3.01,15,Unemployed,0.0,12,False,True
+1200979,19,Male,Engineering,Senior,3.4,26,Unemployed,0.0,18,False,True
+1200980,21,Female,Psychology,Sophomore,3.06,15,Unemployed,0.0,15,False,False
+1200981,23,Female,Computer Science,Junior,2.26,13,Full-time,29988.4,15,False,True
+1200982,24,Female,Computer Science,Senior,3.64,12,Unemployed,0.0,18,True,True
+1200983,21,Male,Psychology,Sophomore,3.47,15,Part-time,6808.53,18,True,True
+1200984,17,Female,Psychology,Freshman,1.67,10,Unemployed,0.0,15,False,False
+1200985,21,Female,Biology,Senior,2.29,14,Part-time,10149.65,18,False,False
+1200986,22,Male,Physics,Sophomore,2.66,13,Unemployed,0.0,15,False,False
+1200987,20,Female,Psychology,Sophomore,2.0,8,Unemployed,0.0,21,False,True
+1200988,17,Male,Chemistry,Junior,3.09,19,Part-time,11632.98,15,True,True
+1200989,20,Female,Engineering,Junior,3.49,13,Part-time,11612.53,18,False,True
+1200990,22,Male,Biology,Senior,2.82,9,Full-time,36695.8,15,False,True
+1200991,22,Female,Engineering,Freshman,3.58,14,Unemployed,0.0,15,False,True
+1200992,22,Male,Biology,Sophomore,3.24,18,Unemployed,0.0,12,True,False
+1200993,20,Male,Psychology,Freshman,3.18,12,Unemployed,0.0,15,False,False
+1200994,18,Female,Computer Science,Sophomore,2.07,8,Part-time,6363.49,15,False,False
+1200995,21,Male,Chemistry,Freshman,2.02,5,Unemployed,0.0,12,True,True
+1200996,21,Male,Physics,Senior,4.0,15,Full-time,38612.39,18,False,True
+1200997,19,Female,Physics,Junior,3.18,10,Full-time,37625.24,18,False,True
+1200998,21,Male,Chemistry,Sophomore,3.0,20,Unemployed,0.0,18,False,False
+1200999,20,Female,Physics,Sophomore,3.42,14,Full-time,22763.64,18,False,False
+1201000,20,Female,Psychology,Senior,2.88,16,Part-time,13673.26,15,False,True
